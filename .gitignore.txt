@@ -1,7 +1,0 @@
-# Unreal Engine
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
-*.VC.db
-*.sln
